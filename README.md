@@ -6,6 +6,8 @@
 > 
 > 운동, 외힙, 국힙 듣는걸 좋아합니다. 🎶
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YONGSONY&layout=compact)](https://github.com/YONGSONY/github-readme-stats)
+
 <!---
 YONGSONY/YONGSONY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
